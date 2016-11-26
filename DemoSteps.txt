@@ -1,0 +1,20 @@
+Demo Bot:
+
+1. Cek length
+:ok
+2. Call rest service:ok
+
+3. Luis
+ and Dialog, prompt, attachment, state:ok
+> please turn [on] light in the [kitchen]
+> find some [italian] food
+> show me picture of [obama]
+
+4. Publish to azure, register d dev.botframework, add to channel skype
+ : ok
+5. Form, validate, on completion:ok
+6. Intelligence bot
+ (guest picture bot,text analytic):ok
+7. Other sample bots
+: coder bot:ok
+8. Rules & Dict, machine learning
